@@ -1,31 +1,33 @@
-<div align="center" class="row">
-  
-	
-  
-
+<div align="center">
+  <p>
+    <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Oskalovlev&style=flat-square&color=red" alt=""/>
+  </p>
 </div>
 
-
-<div id="badges">
-
-   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact)](https://github.com/Oskalovlev/github-readme-stats)
-
-   <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
-  <a href="https://career.habr.com/oskalovlev">
-    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC96ij0l3WKVIBNz1QlHwx_Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://t.me/oskalov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+<div align="center">
+    </aside>
+    <main class="col">
+      <a href="https://career.habr.com/oskalovlev">
+        <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+      </a>
+      <a href="https://www.youtube.com/channel/UC96ij0l3WKVIBNz1QlHwx_Q">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a href="https://t.me/oskalov">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      </a>
+    </main>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Oskalovlev&style=flat-square&color=red" alt=""/>
-<h1>
-  Hi there ⚡, my name is Lev!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+<div align="center">
+  <h1 align="center">
+    Hi there ⚡, my name is Lev!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 ```python
 class WhoIAm():
@@ -48,6 +50,8 @@ class WhoIAm():
 		self.PostgreSQL()
 		self.SQLAlchemy()
 ```
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact&theme=gruvbox)](https://github.com/Oskalovlev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskalovlev&show_icons=true&theme=gruvbox)
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
