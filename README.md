@@ -5,7 +5,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UC96ij0l3WKVIBNz1QlHwx_Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/oskalov">
@@ -19,20 +19,20 @@
 </h1>
 
 ```python
-class WhoIAm:
-	"""Some information about me"""
+class WhoIAm():
+"""Some information about me"""
 
- 	first_name = 'Lev'
-  last_name = 'Oskalov'
+	first_name = 'Lev'
+  	last_name = 'Oskalov'
 	current_work = 'Backend Developer in Python'
-  description = 'I’m working as a my projects and',
+  	description = 'I’m working as a my projects and',
                 'contributing to frontend and backend for building web applications'
 	hobbies = [
 		'Weightlifting',
 		'Music(Metall)',
 	]
-  def get_cunrty():
-    return Russia()
+  	def get_cunrty():
+   		return Russia()
 
 	def Skills():
 		FastAPI()
@@ -49,13 +49,13 @@ class WhoIAm:
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="70" height="50"/> 
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="flask" width="70" height="50"/>
   </a>
   <a href="https://www.djangoproject.com//" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django-rest-framework" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django-rest-framework" width="70" height="50"/>
   </a>
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" width="40" height="40"/> 
