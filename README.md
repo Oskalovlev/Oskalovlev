@@ -1,5 +1,5 @@
 <div align="center" class="row">
-  <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
+  
 	
   
 
@@ -9,6 +9,8 @@
 <div id="badges">
 
    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact)](https://github.com/Oskalovlev/github-readme-stats)
+
+   <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
   <a href="https://career.habr.com/oskalovlev">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
