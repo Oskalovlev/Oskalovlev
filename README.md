@@ -25,7 +25,7 @@ class WhoIAm():
 	first_name = 'Lev'
   	last_name = 'Oskalov'
 	current_work = 'Backend Developer in Python'
-  	description = 'I’m working as a my projects and',
+  	bio = 'I’m working as a my projects and',
                 'contributing to frontend and backend for building web applications'
 	hobbies = [
 		'Weightlifting',
@@ -34,11 +34,10 @@ class WhoIAm():
   	def get_cunrty():
    		return Russia()
 
-	def Skills():
-		FastAPI()
-		PostgreSQL()
-		SQLAlchemy()
-
+	def get_skills(self):
+		self.FastAPI()
+		self.PostgreSQL()
+		self.SQLAlchemy()
 ```
 
 <p align="left">
