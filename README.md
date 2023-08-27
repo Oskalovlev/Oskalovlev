@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskalovlev&hide_progress=true)
 <div id="badges">
   <a href="https://career.habr.com/oskalovlev">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
