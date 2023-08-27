@@ -30,12 +30,6 @@ I am a Backend Developer in Python :snake: from Russia.
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-</p>
-
-<p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -59,6 +53,9 @@ I am a Backend Developer in Python :snake: from Russia.
 <p align="left">
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" width="40" height="40"/> 
+  </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django-rest-framework" width="40" height="40"/> 
   </a>
 </p>
 
