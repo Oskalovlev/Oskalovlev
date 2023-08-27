@@ -1,8 +1,8 @@
-<div id="header" align="left">
-	
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact)](https://github.com/Oskalovlev/github-readme-stats)
- 
+<div id="header" align="center">
+  <aside class="col-12 col-md-3 col-lg-2">
+    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact)](https://github.com/Oskalovlev/github-readme-stats)  
   <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
+  </aside>
 </div>
 
 
