@@ -46,6 +46,9 @@ class WhoIAm():
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
   </a>
+  <a href="https://www.iso.org/standard/76583.html">
+    <img src="https://img.shields.io/badge/sql-white?style=for-the-badge&logo=sql&logoColor=blue" alt="SQL Badge"/>
+  </a>
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/fastapi-teal?style=for-the-badge&logo=python&logoColor=white" alt="Fastapi Badge"/>
   </a>
