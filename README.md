@@ -31,13 +31,14 @@ class WhoIAm():
   	last_name = 'Oskalov'
 	current_work = 'Backend Developer in Python'
   	bio = 'I’m working as a my projects and',
-                'contributing to frontend and backend for building web applications'
+	      'contributing to frontend and backend for building web applications'
 	hobbies = [
 		'Weightlifting',
 		'Music(Metall)',
 	]
-  	def get_cunrty():
-   		return Russia()
+
+  	def get_country():
+   		return Russia.vytskie_polyny()
 ```
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact&theme=gruvbox)](https://github.com/Oskalovlev/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskalovlev&show_icons=true&theme=gruvbox)
