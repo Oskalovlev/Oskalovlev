@@ -8,8 +8,9 @@
 </div>
 
 <div align="center">
-    </aside>
-    <main class="col">
+  <h1 align="center">
+    Hi there ⚡, my name is Lev!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       <a href="https://career.habr.com/oskalovlev">
         <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
       </a>
@@ -19,13 +20,6 @@
       <a href="https://t.me/oskalov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
-    </main>
-</div>
-
-<div align="center">
-  <h1 align="center">
-    Hi there ⚡, my name is Lev!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
