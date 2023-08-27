@@ -1,7 +1,5 @@
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact)](https://github.com/Oskalovlev/github-readme-stats)
 <div id="header" align="center">
-  <a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact)]
-  </a>
   <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
 </div>
 <div id="badges">
