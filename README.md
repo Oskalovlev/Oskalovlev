@@ -18,16 +18,28 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
-I am a Backend Developer in Python :snake: from Russia.
+```python
+class WhoIAm:
+	"""Some information about me"""
 
-- :computer: I’m working as a my projects and contributing to frontend and backend for building web applications.
+ 	first_name = 'Lev'
+  last_name = 'Oskalov'
+	current_work = 'Backend Developer in Python'
+  description = 'I’m working as a my projects and',
+                'contributing to frontend and backend for building web applications'
+	hobbies = [
+		'Weightlifting',
+		'Music(Metall)',
+	]
+  def get_cunrty():
+    return Russia()
 
-- :snail: Exploring Technical Content Writing.
+	def Skills():
+		FastAPI()
+		PostgreSQL()
+		SQLAlchemy()
 
-- :weight_lifting_man: In my free time, I do weightlifting and music.
-
-- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+```
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -36,9 +48,6 @@ I am a Backend Developer in Python :snake: from Russia.
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-</p>
-
-<p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="50" height="50"/> 
   </a>
@@ -48,9 +57,6 @@ I am a Backend Developer in Python :snake: from Russia.
   <a href="https://www.djangoproject.com//" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django-rest-framework" width="50" height="50"/>
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" width="40" height="40"/> 
   </a>
@@ -66,9 +72,6 @@ I am a Backend Developer in Python :snake: from Russia.
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a>
