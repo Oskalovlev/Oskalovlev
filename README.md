@@ -44,11 +44,6 @@ class WhoIAm():
 	]
   	def get_cunrty():
    		return Russia()
-
-	def get_skills(self):
-		self.FastAPI()
-		self.PostgreSQL()
-		self.SQLAlchemy()
 ```
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact&theme=gruvbox)](https://github.com/Oskalovlev/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskalovlev&show_icons=true&theme=gruvbox)
