@@ -1,5 +1,7 @@
 <div id="header" align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Oskalovlev/Oskalovlev/edit/main/README.md)
+  <a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Oskalovlev/Oskalovlev/edit/main/README.md)
+  </a>
   <img src="https://thumbs.gfycat.com/MadComfortableGraywolf-size_restricted.gif" width="100"/>
 </div>
 <div id="badges">
