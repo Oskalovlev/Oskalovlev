@@ -49,37 +49,37 @@ class WhoIAm():
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskalovlev&show_icons=true&theme=gruvbox)
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="100" height="80"/> 
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/fastapi-teal?style=for-the-badge&logo=python&logoColor=white" alt="Fastapi Badge"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="flask" width="80" height="80"/>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
   </a>
-  <a href="https://www.djangoproject.com//" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django-rest-framework" width="100" height="80"/>
+  <a href="https://www.djangoproject.com//">
+   <img src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" width="100" height="80"/> 
+  <a href="https://www.sqlalchemy.org/"> 
+    <img src="https://img.shields.io/badge/sqlalchemy-red?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="Sqlalchemy Badge"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite Badge"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql Badge"/>
   </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> 
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/nginx-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
   </a>
-  <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gunicorn_logo_2010.svg/2560px-Gunicorn_logo_2010.svg.png" alt="gunicorn" width="150" height="40"/> 
+  <a href="https://gunicorn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/gunicorn-green?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn Badge"/>
   </a>
 </p>
