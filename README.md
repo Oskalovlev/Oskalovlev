@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
 	
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact)](https://github.com/Oskalovlev/github-readme-stats)
  
