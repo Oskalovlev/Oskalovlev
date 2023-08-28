@@ -37,7 +37,7 @@ class WhoIAm():
 	      'contributing to frontend and backend for building web applications'
 	hobbies = [
 		'Weightlifting',
-		'Music(Metall)',
+		'Music(Metal)',
 	]
 
   	def get_country():
