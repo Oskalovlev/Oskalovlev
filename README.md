@@ -40,7 +40,7 @@ class WhoIAm():
 		'Music(Metal)',
 	]
 
-  	def get_country():
+  	def get_city():
    		return Russia.vytskie_polyny()
 ```
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact&theme=gruvbox)](https://github.com/Oskalovlev/github-readme-stats)
