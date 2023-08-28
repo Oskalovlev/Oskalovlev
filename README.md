@@ -14,11 +14,14 @@
       <a href="https://career.habr.com/oskalovlev">
         <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
       </a>
-      <a href="https://www.youtube.com/channel/UC96ij0l3WKVIBNz1QlHwx_Q">
+<!--       <a href="https://www.youtube.com/channel/UC96ij0l3WKVIBNz1QlHwx_Q">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-      </a>
+      </a> -->
       <a href="https://t.me/oskalov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      </a>
+      <a href="levoskalov@yandex.ru">
+        <img src="https://img.shields.io/badge/Yandex-red?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Badge"/>
       </a>
   </h1>
 </div>
