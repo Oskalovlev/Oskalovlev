@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
       <a href="levoskalov@yandex.ru">
-        <img src="https://img.shields.io/badge/Yandex-red?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Badge"/>
+        <img src="https://img.shields.io/badge/levoskalov@yandex.ru-red?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Badge"/>
       </a>
   </h1>
 </div>
