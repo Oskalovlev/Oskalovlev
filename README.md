@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <p>
     <img src="https://github.com/Oskalovlev/LoadProfile/blob/main/warmcoffee.gif?raw=true" width="100"/>
   </p>
