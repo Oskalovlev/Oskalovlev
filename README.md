@@ -7,7 +7,7 @@
   </p>
 </div>
 
-###  Hi there ⚡, my name is Lev!
+###  Всем привет ⚡, меня зовут Лев!
 
 <div>
     <a href="https://career.habr.com/oskalovlev">
@@ -23,16 +23,16 @@
 
 ```python
 class WhoIAm():
-"""Some information about me"""
+"""Немного информации обо мне."""
 
-	first_name = 'Lev'
-  	last_name = 'Oskalov'
-	current_work = 'Backend Developer in Python'
-  	bio = 'I’m working as a my projects and',
-	      'contributing to frontend and backend for building web applications'
+	first_name = 'Лев'
+  	last_name = 'Оскалов'
+	current_work = 'Backend Разработчик на Python'
+  	bio = 'Я работаю над своими проектами и',
+	      'учавствую в разработке frontend и backend для создания веб-приложений.'
 	hobbies = [
-		'Weightlifting',
-		'Music(Metal)',
+		'Тяжелая атлетика',
+		'Музыка(Метал)',
 	]
 
   	def get_city():
