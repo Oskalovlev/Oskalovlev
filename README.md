@@ -22,22 +22,11 @@
 </div>
 
 ```python
-class WhoIAm():
-"""Немного информации обо мне."""
-
-	first_name = "Лев"
-  	last_name = "Оскалов"
-	current_work = "Backend Разработчик на Python"
-  	about_me = "Я работаю над своими проектами и",
-		   "учавствую в разработке frontend- и backend-проектах",
-	           "для создания веб-приложений."
-	hobbies = [
-		"Тяжелая атлетика",
-		"Музыка(Метал)",
-	]
-
-  	def get_city():
-   		return Russia.vytskie_polyny()
+Имя: Лев"
+Фамилия: Оскалов"
+Роль в программировании: Backend Разработчик на Python
+О себе: Работаю над своим проектом для бизнеса
+Альтернативная деятельность: Садоводство, Тяжелая атлетика, Музыка
 ```
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oskalovlev&layout=compact&theme=gruvbox)](https://github.com/Oskalovlev/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskalovlev&show_icons=true&theme=gruvbox)
